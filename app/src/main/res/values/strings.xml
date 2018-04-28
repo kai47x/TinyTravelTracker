@@ -5,8 +5,8 @@
     <string name="vector_tiles_key">vector-tiles-fkZ5cDc</string>
     <string name="map">Map</string>
     <string name="mapless">Mapless</string>
-    <string name="app_name">Zellview Way</string>
-    <string name="reviewer_app_name">Zellview Way 2</string>
+    <string name="app_name">Zellview Way Two</string>
+    <string name="reviewer_app_name">Zellview Way Two</string>
     <string name="delete_named_location">Delete ${item}?</string>
     <string name="welcome_password_title">Before we begin</string>
     <string name="welcome_password_message">Before we begin, would you like to enter a password? A password will encrypt the location data gathered by this application. You can always change your mind in the Settings menu.</string>
